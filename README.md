@@ -19,6 +19,7 @@ Useful websites for students, developers, creators, downloads, tools, converters
 - Stack Overflow — https://stackoverflow.com/
 - GitHub — https://github.com/
 - GitHub Pages — https://pages.github.com/
+- Codex Theme Builder — https://codextheme.tools/
 
 ## Creators (design, media, writing)
 
@@ -28,6 +29,7 @@ Useful websites for students, developers, creators, downloads, tools, converters
 - Unsplash (free photos) — https://unsplash.com/
 - Pixabay (free media) — https://pixabay.com/
 - Overleaf (LaTeX online editor) — https://www.overleaf.com/
+- Image to Crochet Pattern — https://imagetocrochetpattern.com/
 
 ## Downloads (software + packages)
 
@@ -46,6 +48,11 @@ Useful websites for students, developers, creators, downloads, tools, converters
 - Regex101 — https://regex101.com/
 - Regex Debugger — https://regexr.com/
 - Base64 Decode/Encode — https://www.base64decode.org/
+- WattsCalc — https://wattscalc.com/
+- Lawn Mowing Cost Calculator — https://lawnmowingcalculator.com/
+- Embroidery Pricing Calculator — https://embroiderypricingcalculator.com/
+- Pressure Washer Fix — https://pressurewasherfix.com/
+- SkyCOTL Tools — https://skycotl.tools/
 
 ## Converters
 
