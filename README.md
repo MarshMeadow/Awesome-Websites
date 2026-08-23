@@ -46,6 +46,7 @@ Useful websites for students, developers, creators, downloads, tools, converters
 - Regex101 — https://regex101.com/
 - Regex Debugger — https://regexr.com/
 - Base64 Decode/Encode — https://www.base64decode.org/
+- WorkroomCalc — https://workroomcalc.co.uk/
 
 ## Converters
 
