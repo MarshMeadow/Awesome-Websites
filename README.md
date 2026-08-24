@@ -10,6 +10,7 @@ Useful websites for students, developers, creators, downloads, tools, converters
 - Project Gutenberg — https://www.gutenberg.org/
 - Internet Archive (Wayback) — https://web.archive.org/
 - Khan Academy — https://www.khanacademy.org/
+- Random Animal Picker — https://randomanimalpicker.com/ — Free, no-signup animal reference and discovery app.
 
 ## Developers
 
