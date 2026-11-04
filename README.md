@@ -19,6 +19,7 @@ Useful websites for students, developers, creators, downloads, tools, converters
 - Stack Overflow — https://stackoverflow.com/
 - GitHub — https://github.com/
 - GitHub Pages — https://pages.github.com/
+- **Bucketlist.nl Dream of the Day API** — https://bucketlist.nl/brand/droom-van-de-dag.openapi.json
 
 ## Creators (design, media, writing)
 
