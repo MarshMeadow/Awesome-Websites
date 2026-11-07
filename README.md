@@ -28,6 +28,7 @@ Useful websites for students, developers, creators, downloads, tools, converters
 - Unsplash (free photos) — https://unsplash.com/
 - Pixabay (free media) — https://pixabay.com/
 - Overleaf (LaTeX online editor) — https://www.overleaf.com/
+- **RandomGeneratr (fictional names and NPC cards)** — https://randomgeneratr.com/npc-generator
 
 ## Downloads (software + packages)
 
