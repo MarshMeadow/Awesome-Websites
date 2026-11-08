@@ -22,6 +22,7 @@ Useful websites for students, developers, creators, downloads, tools, converters
 
 ## Creators (design, media, writing)
 
+- **Cursive Generation Cursive Generator** — https://cursive-generation.com/cursive-generator
 - Figma — https://www.figma.com/
 - Canva — https://www.canva.com/
 - Photopea (web image editor) — https://www.photopea.com/
