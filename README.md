@@ -40,6 +40,7 @@ Useful websites for students, developers, creators, downloads, tools, converters
 
 ## Tools (online utilities)
 
+- **Calculation Hub JSON Formatter** — https://calculation-hub.com/tools/json-formatter-validator
 - Squoosh (image optimization) — https://squoosh.app/
 - CyberChef — https://gchq.github.io/CyberChef/
 - JSON Formatter — https://jsonformatter.org/
