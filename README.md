@@ -40,6 +40,7 @@ Useful websites for students, developers, creators, downloads, tools, converters
 
 ## Tools (online utilities)
 
+- **Bike Size Calculator** — https://bike-size.com/calculators/bike-size
 - Squoosh (image optimization) — https://squoosh.app/
 - CyberChef — https://gchq.github.io/CyberChef/
 - JSON Formatter — https://jsonformatter.org/
