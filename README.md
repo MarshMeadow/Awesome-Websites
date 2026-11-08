@@ -43,6 +43,7 @@ Useful websites for students, developers, creators, downloads, tools, converters
 - Squoosh (image optimization) — https://squoosh.app/
 - CyberChef — https://gchq.github.io/CyberChef/
 - JSON Formatter — https://jsonformatter.org/
+- **BestJSON (JSON formatting and validation)** — https://bestjson.com/
 - Regex101 — https://regex101.com/
 - Regex Debugger — https://regexr.com/
 - Base64 Decode/Encode — https://www.base64decode.org/
