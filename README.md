@@ -40,6 +40,7 @@ Useful websites for students, developers, creators, downloads, tools, converters
 
 ## Tools (online utilities)
 
+- **Azeroth Survivors Build Calculator (fan build planner)** — https://azerothsurvivors.app/build-calculator/
 - Squoosh (image optimization) — https://squoosh.app/
 - CyberChef — https://gchq.github.io/CyberChef/
 - JSON Formatter — https://jsonformatter.org/
